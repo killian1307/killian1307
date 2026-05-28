@@ -37,12 +37,12 @@
 
 <!-- Dynamic Visitor Counter Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=killian1307&color=blue&style=flat-square" alt="Profile Visitors" />
 </p>
 
 <!-- Dynamic Stats Card (Shows commits, total repos, and public contributions) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Killian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=killian1307&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Killian's GitHub Stats" />
 </p>
 
 ---
