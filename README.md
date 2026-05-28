@@ -1,6 +1,4 @@
-## Hi there, I'm Killian 👋
-
-<h2 align="center">About me</h2>
+<h1 align="center">Hi there, I'm Killian 👋</h1>
 
 *   🔭 I'm currently working on **Voozenoo** (a complete rebuild of my mom's cooking blog from the ground up) and planning **Corrvélys** (a local AI auditing business).
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/killian-milani-a8458a38b/)
