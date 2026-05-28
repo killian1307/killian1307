@@ -3,7 +3,7 @@
 *   🔭 I'm currently working on **Voozenoo** (a complete rebuild of my mom's cooking blog from the ground up) and planning **Corrvélys** (a local AI auditing business).
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/killian-milani-a8458a38b/)
 
-<h2 align="center">Languages and Tools: :man_technologist:</h2>
+<h2 align="center">Languages and Tools :man_technologist:</h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
 <p align="center">
