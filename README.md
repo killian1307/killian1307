@@ -39,10 +39,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=killian1307&color=blue&style=flat-square" alt="Profile Visitors" />
 </p>
-
-<!-- Dynamic Stats Card (Shows commits, total repos, and public contributions) -->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-
----
