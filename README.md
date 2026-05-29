@@ -30,12 +30,13 @@
 
 <br />
 <br />
+<br />
 
----
-
-<h2 align="center">Github Stats :bar_chart:</h2>
-
-<!-- Dynamic Visitor Counter Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=killian1307&color=blue&style=flat-square" alt="Profile Visitors" />
 </p>
+
+<br />
+
+---
+
