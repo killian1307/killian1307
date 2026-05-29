@@ -41,8 +41,6 @@
 </p>
 
 <!-- Dynamic Stats Card (Shows commits, total repos, and public contributions) -->
-<p align="center">
-  ![Stats](./profile/stats.svg)
-</p>
+![Stats](./profile/stats.svg)
 
 ---
