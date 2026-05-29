@@ -42,7 +42,7 @@
 
 <!-- Dynamic Stats Card (Shows commits, total repos, and public contributions) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killian1307&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Killian's GitHub Stats" />
+  ![Stats](./profile/stats.svg)
 </p>
 
 ---
